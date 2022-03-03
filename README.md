@@ -5,7 +5,7 @@
 
 🌱 I´m currently learning about Docker, Nginx and improving my frontend and backend skills.
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/enrico-secco/enrico-secco/blob/main/devcard.svg" width="400" alt="Enrico's Dev Card"/></a>
+<a href="https://app.daily.dev/enricosecco"><img src="https://github.com/enrico-secco/enrico-secco/blob/main/devcard.svg" width="400" alt="Enrico's Dev Card"/></a>
 
 
 ## 🌐Socials
