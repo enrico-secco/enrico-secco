@@ -5,7 +5,7 @@ Currently working as Frontend Software Engineer at Wiley.
 
 Currently improving my frontend and mobile skills.
 
-Interested in Golang and Cloud.
+Interested in Swift and IOS development.
 
 ## Tech Stack
 
