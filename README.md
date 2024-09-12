@@ -19,7 +19,7 @@
 
   <li>Backend</li>
 
-  [![My Skills](https://skillicons.dev/icons?i=docker,go,prisma,firebase,mongodb,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=docker,prisma,firebase,mongodb,mysql)](https://skillicons.dev)
 
   <li>Tools</li>
 
