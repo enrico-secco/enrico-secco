@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello, welcome to my profile!</h2>
 
-<p align="center">Frontend Engineer</p>
+<p align="center">Frontend & Mobile Engineer</p>
 
 <h3>:palm_tree: About Me</h3>
 <ul>
