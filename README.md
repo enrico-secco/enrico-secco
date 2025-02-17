@@ -27,7 +27,7 @@
 
   <li>Interested in</li>
 
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,aws,swift)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,aws)](https://skillicons.dev)
   
 </ul>
 
