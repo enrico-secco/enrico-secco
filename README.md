@@ -3,7 +3,7 @@
 
 <p align="center">Frontend & Mobile Engineer</p>
 
-<h3>:palm_tree: About Me</h3>
+<h3>About Me</h3>
 <ul>
   <li>:mortar_board: Bachelor's degree in Software Engineering from Unifil.</li>
   <li>:computer: Currently working as a Frontend Software Engineer at Wiley.</li>
@@ -11,7 +11,7 @@
   <li>:iphone: Interested in Swift and IOS development.</li>
 </ul>
 
-<h3>:zap: Tech Stack</h3>
+<h3>Tech Stack</h3>
 <ul>
   <li>Frontend</li>
 
