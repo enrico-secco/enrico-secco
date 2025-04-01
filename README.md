@@ -8,7 +8,6 @@
   <li>:mortar_board: Bachelor's degree in Software Engineering from Unifil.</li>
   <li>:computer: Currently working as a Frontend Software Engineer at Wiley.</li>
   <li>:rocket: Focused on improving my frontend and mobile development skills.</li>
-  <li>:iphone: Interested in Swift and IOS development.</li>
 </ul>
 
 <h3>Tech Stack</h3>
