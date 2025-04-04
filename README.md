@@ -14,7 +14,7 @@
 <ul>
   <li>Frontend</li>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cypress,jest,nextjs,react,redux,sass,styledcomponents,tailwind,vite)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cypress,jest,nextjs,react,redux,sass,tailwind,vite,graphql)](https://skillicons.dev)
 
   <li>Backend</li>
 
