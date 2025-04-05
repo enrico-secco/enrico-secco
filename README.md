@@ -1,35 +1,38 @@
+<h2 align="center">Enrico Secco</h2>
+<p align="center"><strong>Frontend & Mobile Engineer</strong></p>
 
-<h2 align="center">Hello, welcome to my profile!</h2>
+---
 
-<p align="center">Frontend & Mobile Engineer</p>
+### About Me
 
-<h3>About Me</h3>
-<ul>
-  <li>:mortar_board: Bachelor's degree in Software Engineering from Unifil.</li>
-  <li>:computer: Currently working as a Frontend Software Engineer at Wiley.</li>
-  <li>:rocket: Focused on improving my frontend and mobile development skills.</li>
-</ul>
+- Software Engineering graduate from UniFil  
+- Currently working as Frontend Engineer at Wiley  
 
-<h3>Tech Stack</h3>
-<ul>
-  <li>Frontend</li>
+---
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cypress,jest,nextjs,react,redux,sass,tailwind,vite,graphql)](https://skillicons.dev)
+### Tech Stack
 
-  <li>Backend</li>
+**Frontend**  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,sass,tailwind,vite,jest,cypress,graphql)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=docker,prisma,firebase,mongodb,mysql)](https://skillicons.dev)
+**Backend & Infra**  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,docker,prisma,firebase,mongodb,mysql)](https://skillicons.dev)
 
-  <li>Tools</li>
+**Tools**  
+[![My Skills](https://skillicons.dev/icons?i=git,postman,npm,yarn)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=git,postman,npm,yarn)](https://skillicons.dev)
+**Exploring**  
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
-  <li>Interested in</li>
+---
 
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,aws)](https://skillicons.dev)
-  
-</ul>
+### Contact
 
-## Contact me
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/enrico-secco)
-  [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:enricosecco@edu.unifil.br)
+<p align="center">
+  <a href="https://linkedin.com/in/enrico-secco" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:enricosecco@edu.unifil.br" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
